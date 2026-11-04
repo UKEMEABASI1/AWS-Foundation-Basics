@@ -6,10 +6,12 @@
 **Prerequisite:** Basic computer literacy  
 **Capstone:** Deploy a live static website on Amazon S3  
 **Next step:** Level 2 — Intermediate AWS Cloud Engineering
+
 ---
 ## Course promise
-### This course takes learners from zero cloud experience to confidently navigating AWS, explaining core cloud concepts, applying basic security practices, creating introductory compute/network/storage resources, monitoring costs, and publishing a simple website.
-### It is a practical foundation course. It is **not** a production cloud architecture or AWS certification-preparation guarantee.
+This course takes learners from zero cloud experience to confidently navigating AWS, explaining core cloud concepts, applying basic security practices, creating introductory compute/network/storage resources, monitoring costs, and publishing a simple website.
+It is a practical foundation course. It is **not** a production cloud architecture or AWS certification-preparation guarantee.
+
 ---
 ## Who should take it?
 
@@ -116,4 +118,4 @@ Create a public or private repository named `aws-cloud-foundation-basic`. Upload
 
 ## Disclaimer
 
-AWS console labels, pricing, service availability and account onboarding flows may change. The instructor should verify current AWS documentation and pricing before delivering the course. This material is an educational foundation, not a substitute for AWS documentation or production security review.
+AWS console labels, pricing, service availability and account onboarding flows may change. This material is an educational foundation, not a substitute for AWS documentation or production security review.
